@@ -1,0 +1,7 @@
+{
+  "gensFile": "testFile",
+  "isFullPath": false,
+  "chunkSize": 20,
+  "prefix": "AAAAAAAAAAA",
+  "port": 3000
+}
